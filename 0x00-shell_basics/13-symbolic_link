@@ -1,2 +1,2 @@
 #!/bin/bash
-in -s/tinls_ls
+ln -s /bin/ls_ls_
